@@ -1,0 +1,6 @@
+{
+  "appId": "com.noteboard.app",
+  "appName": "노트 보드",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
